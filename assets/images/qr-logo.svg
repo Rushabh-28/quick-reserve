@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" width="520" height="120" role="img" aria-label="Quick Reserve">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14a3a3"/><stop offset="1" stop-color="#0b5d63"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="10" width="100" height="100" rx="26" fill="url(#g)"/>
+  <!-- building -->
+  <path d="M30 88V46l24-14 24 14v42z" fill="#fff" opacity=".95"/>
+  <rect x="42" y="56" width="8" height="10" rx="1.5" fill="#0b5d63"/><rect x="58" y="56" width="8" height="10" rx="1.5" fill="#0b5d63"/>
+  <rect x="47" y="72" width="14" height="16" rx="2" fill="#0b5d63"/>
+  <!-- check mark badge -->
+  <circle cx="86" cy="36" r="17" fill="#f5a524" stroke="#fff" stroke-width="4"/>
+  <path d="M78 36l6 6 10-12" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="128" y="62" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#0b5d63">Quick</text>
+  <text x="128" y="104" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#f5a524">Reserve</text>
+</svg>
